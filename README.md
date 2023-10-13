@@ -21,3 +21,6 @@ git clone https://github.com/yazakhariya/SearchBooks.git
 ```bash 
 npm run dev
 ```
+
+## Деплой проекта
+https://search-books-self.vercel.app/
