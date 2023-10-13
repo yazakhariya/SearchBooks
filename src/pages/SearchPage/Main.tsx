@@ -31,7 +31,6 @@ export default function Main() {
     setOnBookClick(true)
     setSort('')
     setTitle(e.target.textContent)
-    setOrder('')
   }
 
   const FilterBooks = (

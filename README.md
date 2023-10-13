@@ -11,7 +11,7 @@
 ```bash
 git clone https://github.com/yazakhariya/SearchBooks.git
 ```  
-2. Создать файл .env.local и поместить туда токен, сгенерированный на GitHub (информация по ссылке: https://developers.google.com/books/docs/v1/using?hl=ru#APIKey);
+2. Создать файл .env.local и поместить туда токен (информация по ссылке: https://developers.google.com/books/docs/v1/using?hl=ru#APIKey);
 
 3. Название токена должно быть "VITE_ACCESS_TOKEN";
 
